@@ -1,2 +1,6 @@
 # DeviceTreeSpecification
 基于readthedocs将设备树规格书翻译成中文
+
+# 起因
+最进开始学习设备树相关知识，在网上搜索相关知识发现，介绍这部分知识的很少并且质量也不是很高。后来发现学习设备树语法主要是靠《Devicetree SpecificationV0.2.pdf》和《Power_ePAPR_APPROVED_v1.12.pdf》两个文档。
+为了自己以后可以反复观看和提高自己的英语水平，特此建立这个项目来翻译DeviceTreeSpecification文档
