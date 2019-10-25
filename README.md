@@ -1,0 +1,2 @@
+# DeviceTreeSpecification
+基于readthedocs将设备树规格书翻译成中文
